@@ -1,0 +1,9 @@
+export const ROUTE_AUTHENTICATED_NAVIGATOR = 'authenticated_navigator';
+export const ROUTE_TAB_NAVIGATOR = 'tab_navigator';
+export const ROUTE_HOME_STACK_NAVIGATOR = 'home_stack_navigator';
+export const ROUTE_HOME_SCREEN = 'home_screen';
+export const ROUTE_GROUPS_SCREEN = 'groups_screen';
+export const ROUTE_ADD = 'add';
+export const ROUTE_PROFILE = 'profile';
+export const ROUTE_NOTIFICATIONS = 'notifications';
+export const ROUTE_SEARCH_SCREEN = 'search_screen';
